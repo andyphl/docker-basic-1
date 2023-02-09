@@ -1,0 +1,14 @@
+{
+  "name": "docker-demo",
+  "version": "1.0.0",
+  "description": "February 10, 2023 docker basic tutorial.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "andyphl",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
